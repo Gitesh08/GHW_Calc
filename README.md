@@ -1,1 +1,1 @@
-# GHW_Calc
+A simple calculator is a basic project that can be developed using Java programming language. It can perform basic arithmetic operations like addition, subtraction, multiplication, and division. The user can input two numbers and select the operation to be performed. The result of the operation is displayed to the user.
